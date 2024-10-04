@@ -45,6 +45,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/api-chain-dashboard.git
+git clone https://github.com/Sachinnegi825/ApiConnect.git
 cd api-connect
 ```
